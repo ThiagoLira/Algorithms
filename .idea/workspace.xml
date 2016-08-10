@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56745570-7380-474c-baf7-de6ec87d9c3a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algoritmos/sorts.class" afterPath="$PROJECT_DIR$/out/production/Algoritmos/sorts.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algoritmos/tester.class" afterPath="$PROJECT_DIR$/out/production/Algoritmos/tester.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sorts.java" afterPath="$PROJECT_DIR$/src/sorts.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tester.java" afterPath="$PROJECT_DIR$/src/tester.java" />
     </list>
     <ignored path="Algoritmos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/sorts.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="445">
-              <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -441,11 +440,19 @@
       <option name="presentableId" value="Default" />
       <updated>1469288479031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Graças ao Fabao agora funfa&#10;">
+      <created>1470868136187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470868136187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -483,6 +490,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Graças ao Fabao agora funfa&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Graças ao Fabao agora funfa&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -526,7 +537,7 @@
     <entry file="file://$PROJECT_DIR$/src/sorts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
-          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding />
         </state>
       </provider>
