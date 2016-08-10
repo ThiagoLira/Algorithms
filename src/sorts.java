@@ -81,18 +81,12 @@ public  abstract class sorts {
 
             int pivotPosition = partitionArray(array,ini,fim);
 
-            quickSort(array,ini,pivotPosition-1);
+            quickSort(array,ini,pivotPosition);
             quickSort(array,pivotPosition+1,fim);
 
         }
     }
 
-
-
-    private static int choosePivot(int[] array,int ini,int fim){
-        //always return first element as pivot
-        return ini;
-    }
 
 
     public static final void swap (int[] array, int i, int j) {
@@ -101,7 +95,7 @@ public  abstract class sorts {
         array[j] = t;
     }
 
-    private static int partitionArray(int[] array,int min, int max){
+    public static int partitionArray(int[] array,int min, int max){
 
         //choose first element as pivot
         int pivot = min;
@@ -117,10 +111,10 @@ public  abstract class sorts {
         leftWall = min;
 
         for (iter=min+1;iter<max;iter++){
-
             if(array[iter]<array[pivot]){
                 leftWall++;
                 swap(array,leftWall,iter);
+
             }
         }
 

@@ -23,7 +23,11 @@ public class tester {
 
         s.close();
 
+        //int[] teste = {52,2,3,4,6,7,8,1,11,13,14,17,555,51,333};
 
+        //sorts.partitionArray(teste,0,15);
+
+        //sorts.printArray("teste",teste);
 
         sorts.quickSort(tall,0,9999);
 
